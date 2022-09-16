@@ -1,0 +1,3 @@
+[submodule "snek-c"]
+	path = snek-c
+	url = https://github.com/zweahtet/snek-c.git
