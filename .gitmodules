@@ -1,3 +1,6 @@
 [submodule "snek-c"]
 	path = snek-c
 	url = https://github.com/zweahtet/snek-c.git
+[submodule "61c-labs"]
+	path = 61c-labs
+	url = https://github.com/zweahtet/61c-labs.git
